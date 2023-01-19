@@ -1,0 +1,28 @@
+Test results:
+Loss: 0.000 | Acc: 100.000% (100/100)
+Test results:
+Loss: 6.129 | Acc: 12.000% (12/100)
+Test results:
+Loss: 0.000 | Acc: 100.000% (100/100)
+Test results:
+Loss: 5.836 | Acc: 15.000% (15/100)
+Test results:
+Loss: 0.000 | Acc: 100.000% (100/100)
+Test results:
+Loss: 5.070 | Acc: 20.000% (20/100)
+Test results:
+Loss: 0.000 | Acc: 100.000% (100/100)
+Test results:
+Loss: 0.000 | Acc: 100.000% (100/100)
+Test results:
+Loss: 0.000 | Acc: 100.000% (100/100)
+Test results:
+Loss: 5.836 | Acc: 15.000% (15/100)
+Test results:
+Loss: 0.000 | Acc: 100.000% (100/100)
+Test results:
+Loss: 4.881 | Acc: 20.000% (20/100)
+Test results:
+Loss: 0.000 | Acc: 100.000% (100/100)
+Test results:
+Loss: 4.771 | Acc: 20.000% (20/100)

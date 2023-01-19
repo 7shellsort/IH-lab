@@ -1,0 +1,25 @@
+Test results:
+Loss: 2.356 | Acc: 9.000% (9/100)
+Test results:
+Loss: 2.345 | Acc: 11.000% (1198/10000)
+
+Epoch: 60
+Loss: 0.072 | Acc: 98.000% (49495/50000) | time: 24s145ms | len(Wm): 500
+Test results:
+Loss: 0.232 | Acc: 93.000% (9323/10000)
+Test results:
+Loss: 0.000 | Acc: 100.000% (100/100)
+
+Epoch: 61
+Loss: 0.020 | Acc: 99.000% (49860/50000) | time: 29s711ms | len(Wm): 500
+Test results:
+Loss: 0.247 | Acc: 93.000% (9330/10000)
+Test results:
+Loss: 0.000 | Acc: 100.000% (100/100)
+
+Epoch: 62
+Loss: 0.016 | Acc: 99.000% (49866/50000) | time: 39s124ms | len(Wm): 500
+Test results:
+Loss: 0.257 | Acc: 93.000% (9326/10000)
+Test results:
+Loss: 0.000 | Acc: 100.000% (100/100)

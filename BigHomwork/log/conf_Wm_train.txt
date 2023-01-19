@@ -1,0 +1,13 @@
+lr: 0.1
+wm_path: ./data/trigger_set/
+wm_lbl: labels-cifar.txt
+batch_size: 100
+wm_batch_size: 2
+max_epochs: 60
+lradj: 20
+save_dir: ./checkpoint/
+save_model: Wm_model.t7
+load_path: ./checkpoint/Wm_model.t7
+resume: False
+log_dir: ./log
+runname: Wm_train

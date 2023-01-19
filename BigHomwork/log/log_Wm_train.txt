@@ -1,0 +1,302 @@
+Test results:
+Loss: 2.301 | Acc: 9.000% (9/100)
+
+Epoch: 0
+Loss: nan | Acc: 10.000% (10/100) | time: 1s302ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 1
+Loss: nan | Acc: 11.000% (11/100) | time: 1s623ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 2
+Loss: nan | Acc: 11.000% (11/100) | time: 1s738ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 3
+Loss: nan | Acc: 11.000% (11/100) | time: 2s59ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 4
+Loss: nan | Acc: 11.000% (11/100) | time: 2s406ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 5
+Loss: nan | Acc: 11.000% (11/100) | time: 5s528ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 6
+Loss: nan | Acc: 11.000% (11/100) | time: 6s314ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 7
+Loss: nan | Acc: 11.000% (11/100) | time: 5s157ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 8
+Loss: nan | Acc: 11.000% (11/100) | time: 5s348ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 9
+Loss: nan | Acc: 11.000% (11/100) | time: 5s339ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 10
+Loss: nan | Acc: 11.000% (11/100) | time: 5s319ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 11
+Loss: nan | Acc: 11.000% (11/100) | time: 5s615ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 12
+Loss: nan | Acc: 11.000% (11/100) | time: 6s101ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 13
+Loss: nan | Acc: 11.000% (11/100) | time: 6s119ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 14
+Loss: nan | Acc: 11.000% (11/100) | time: 6s121ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 15
+Loss: nan | Acc: 11.000% (11/100) | time: 6s118ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 16
+Loss: nan | Acc: 11.000% (11/100) | time: 6s112ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 17
+Loss: nan | Acc: 11.000% (11/100) | time: 6s106ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 18
+Loss: nan | Acc: 11.000% (11/100) | time: 6s109ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 19
+Loss: nan | Acc: 11.000% (11/100) | time: 6s115ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 20
+Loss: nan | Acc: 11.000% (11/100) | time: 6s207ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 21
+Loss: nan | Acc: 11.000% (11/100) | time: 6s316ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 22
+Loss: nan | Acc: 11.000% (11/100) | time: 6s530ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 23
+Loss: nan | Acc: 11.000% (11/100) | time: 7s672ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 24
+Loss: nan | Acc: 11.000% (11/100) | time: 8s519ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 25
+Loss: nan | Acc: 11.000% (11/100) | time: 8s53ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 26
+Loss: nan | Acc: 11.000% (11/100) | time: 8s238ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 27
+Loss: nan | Acc: 11.000% (11/100) | time: 10s269ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 28
+Loss: nan | Acc: 11.000% (11/100) | time: 10s325ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 29
+Loss: nan | Acc: 11.000% (11/100) | time: 10s925ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 30
+Loss: nan | Acc: 11.000% (11/100) | time: 11s31ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 31
+Loss: nan | Acc: 11.000% (11/100) | time: 11s94ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 32
+Loss: nan | Acc: 11.000% (11/100) | time: 11s89ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 33
+Loss: nan | Acc: 11.000% (11/100) | time: 10s955ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 34
+Loss: nan | Acc: 11.000% (11/100) | time: 11s414ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 35
+Loss: nan | Acc: 11.000% (11/100) | time: 10s932ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 36
+Loss: nan | Acc: 11.000% (11/100) | time: 11s420ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 37
+Loss: nan | Acc: 11.000% (11/100) | time: 10s557ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 38
+Loss: nan | Acc: 11.000% (11/100) | time: 11s793ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 39
+Loss: nan | Acc: 11.000% (11/100) | time: 12s47ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 40
+Loss: nan | Acc: 11.000% (11/100) | time: 12s73ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 41
+Loss: nan | Acc: 11.000% (11/100) | time: 12s138ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 42
+Loss: nan | Acc: 11.000% (11/100) | time: 12s23ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 43
+Loss: nan | Acc: 11.000% (11/100) | time: 12s32ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 44
+Loss: nan | Acc: 11.000% (11/100) | time: 12s95ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 45
+Loss: nan | Acc: 11.000% (11/100) | time: 12s75ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 46
+Loss: nan | Acc: 11.000% (11/100) | time: 12s78ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 47
+Loss: nan | Acc: 11.000% (11/100) | time: 12s568ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 48
+Loss: nan | Acc: 11.000% (11/100) | time: 12s98ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 49
+Loss: nan | Acc: 11.000% (11/100) | time: 12s91ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 50
+Loss: nan | Acc: 11.000% (11/100) | time: 12s157ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 51
+Loss: nan | Acc: 11.000% (11/100) | time: 12s125ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 52
+Loss: nan | Acc: 11.000% (11/100) | time: 12s119ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 53
+Loss: nan | Acc: 11.000% (11/100) | time: 13s275ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 54
+Loss: nan | Acc: 11.000% (11/100) | time: 12s119ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 55
+Loss: nan | Acc: 11.000% (11/100) | time: 12s180ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 56
+Loss: nan | Acc: 11.000% (11/100) | time: 22s192ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 57
+Loss: nan | Acc: 11.000% (11/100) | time: 42s555ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 58
+Loss: nan | Acc: 11.000% (11/100) | time: 29s90ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)
+
+Epoch: 59
+Loss: nan | Acc: 11.000% (11/100) | time: 12s54ms | len(Wm): 50
+Test results:
+Loss: nan | Acc: 11.000% (11/100)

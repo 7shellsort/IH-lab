@@ -1,0 +1,35 @@
+
+Epoch: 60
+Loss: nan | Acc: 10.02% (5110/51000) | time: 1m11s | len(Wm): 500
+Test results:
+Loss: nan | Acc: 10.00% (1000/10000)
+Test results:
+Loss: nan | Acc: 11.00% (11/100)
+
+Epoch: 61
+Loss: nan | Acc: 10.02% (5110/51000) | time: 1m18s | len(Wm): 500
+Test results:
+Loss: nan | Acc: 10.00% (1000/10000)
+Test results:
+Loss: nan | Acc: 11.00% (11/100)
+
+Epoch: 62
+Loss: nan | Acc: 10.02% (5110/51000) | time: 1m20s | len(Wm): 500
+Test results:
+Loss: nan | Acc: 10.00% (1000/10000)
+Test results:
+Loss: nan | Acc: 11.00% (11/100)
+
+Epoch: 63
+Loss: nan | Acc: 10.02% (5110/51000) | time: 1m20s | len(Wm): 500
+Test results:
+Loss: nan | Acc: 10.00% (1000/10000)
+Test results:
+Loss: nan | Acc: 11.00% (11/100)
+
+Epoch: 64
+Loss: nan | Acc: 10.02% (5110/51000) | time: 1m20s | len(Wm): 500
+Test results:
+Loss: nan | Acc: 10.00% (1000/10000)
+Test results:
+Loss: nan | Acc: 11.00% (11/100)
