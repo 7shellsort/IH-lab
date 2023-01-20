@@ -1,11 +1,10 @@
 import matplotlib.pyplot as plt
 
 name_list = ['No Fintuning', 'FTLL', 'FTAL', 'RTLL', 'RTAL']
-Scratch_Test = [93.29]
-PreTrained_Test = []
-Scratch_Trigger = [100]
-PreTrained_Trigger = []
-
+Scratch_Test = [93.29, 93.13, 91.01, 93.21, 90.93]
+PreTrained_Test = [93.03, 93.13, 90.66, 93.19, 91.19]
+Scratch_Trigger = [100, 100, 100, 100]
+PreTrained_Trigger = [100, 100, 100, 100]
 x = list(range(len(Scratch_Test)))
 total_width, n = 0.8, 4
 width = total_width / n
