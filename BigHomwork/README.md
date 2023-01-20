@@ -13,9 +13,9 @@
 第 27 届 USENIX 安全研讨会, [USENIX](https://www.usenix.org/conference/usenixsecurity18).</br>
 
 ## Content
-This repo contains the trigger set images used to embed the watermarks.
+此存储库包含用于嵌入水印的触发器集图像.
 
-At the moment the code supports training and evaluating on [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset **only** 
+目前代码仅支持在 [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) 数据集上进行训练和评估 
 
 ## Dependencies
 [Python 3.6](https://www.anaconda.com/download)
